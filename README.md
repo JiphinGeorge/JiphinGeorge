@@ -24,6 +24,6 @@ Hi, I'm Jiphin George — an MCA student at MACE Kothamangalam and a curious dev
 ![](https://github-contributor-stats.vercel.app/api?username=JiphinGeorge&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JiphinGeorge&icon=5&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=JiphinGeorge&icon=eye&color=brightgreen)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
