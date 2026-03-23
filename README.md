@@ -7,8 +7,7 @@
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=JiphinGeorge&icon=eye&color=brightgreen)](https://visitcount.itsvg.in)  
-![Followers](https://img.shields.io/github/followers/JiphinGeorge?label=Followers&style=social)  
-![Stars](https://img.shields.io/github/stars/JiphinGeorge?label=Stars&style=social)
+![Followers](https://img.shields.io/github/followers/JiphinGeorge?label=Followers&style=social) 
 
 </div>
 
