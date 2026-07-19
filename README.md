@@ -28,6 +28,14 @@
 
 <br/>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/JiphinGeorge/JiphinGeorge/main/output.gif" width="100%"/>
+
+</div>
+
+<br/>
+
 ## ─── About Me
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
@@ -51,6 +59,26 @@ Most recently, I built an end-to-end **computer vision inspection system** — f
 <br/>
 
 **🎯 Open To:** Software Engineer · AI/ML Engineer · Full Stack Developer · Computer Vision Engineer roles
+
+<br/>
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+- 🎓 **MCA Student** @ Mar Athanasius College of Engineering, Kothamangalam (2025–2027)
+- 💼 **AI/ML Intern** @ Nestsoft Technomaster — built an industrial computer vision inspection system
+- 🧠 **Ask me about:** Computer Vision, Transfer Learning, Explainable AI, Flutter, or Django
+- 🚀 **Looking for:** Software Engineer / AI-ML Engineer / Full Stack Developer roles
+- 🏆 Led **Team GLITCH** through an 18-hour hackathon, shipping multiple web apps
+- 🧩 **Hobbies:** Problem solving, Rubik's Cube, Travelling
+
+</td>
+<td width="35%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="100%">
+</td>
+</tr>
+</table>
 
 <br/>
 
