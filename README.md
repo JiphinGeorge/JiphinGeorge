@@ -273,7 +273,7 @@ Completed a virtual internship centered on core data science concepts and practi
 <div align="center">
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JiphinGeorge&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JiphinGeorge&theme=tokyonight" />
 </p>
 
 </div>
@@ -294,7 +294,7 @@ Completed a virtual internship centered on core data science concepts and practi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JiphinGeorge/JiphinGeorge/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/JiphinGeorge/JiphinGeorge/output/github-snake-dark.svg" width="100%"/>
 
 </div>
 
