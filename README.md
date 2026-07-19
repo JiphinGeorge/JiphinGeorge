@@ -47,7 +47,8 @@
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-<div align="center">
+<table align="center">
+<tr><td>
 
 ```yaml
 whoami:
@@ -61,7 +62,8 @@ whoami:
   philosophy: "Engineering software that is intelligent, explainable, and production-ready"
 ```
 
-</div>
+</td></tr>
+</table>
 
 I'm an engineering-minded developer who builds at the intersection of **Artificial Intelligence** and **Full Stack Engineering**. My work spans training and deploying deep learning models for real-world industrial use cases, architecting backend systems that serve them reliably, and shipping clean, usable interfaces on web and mobile.
 
@@ -361,6 +363,9 @@ Completed a virtual internship centered on core data science concepts and practi
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8993FB,25:FF6FD8,50:FFA36C,75:38F9D7,100:4FACFE&height=3" width="100%"/>
 
 
+<table align="center">
+<tr><td>
+
 ```yaml
 current:
   learning:
@@ -379,6 +384,9 @@ current:
     - "Full Stack Developer roles"
     - "Collaborations on open-source AI tooling"
 ```
+
+</td></tr>
+</table>
 
 <br/>
 
