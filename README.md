@@ -47,6 +47,8 @@
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
+<div align="center">
+
 ```yaml
 whoami:
   name: "Jiphin George"
@@ -58,6 +60,8 @@ whoami:
     - "Scalable Full Stack Systems (Django, Flask, React, Flutter)"
   philosophy: "Engineering software that is intelligent, explainable, and production-ready"
 ```
+
+</div>
 
 I'm an engineering-minded developer who builds at the intersection of **Artificial Intelligence** and **Full Stack Engineering**. My work spans training and deploying deep learning models for real-world industrial use cases, architecting backend systems that serve them reliably, and shipping clean, usable interfaces on web and mobile.
 
