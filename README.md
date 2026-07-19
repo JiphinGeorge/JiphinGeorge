@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8993FB,25:FF6FD8,50:FFA36C,75:38F9D7,100:4FACFE&height=280&section=header&text=Jiphin%20George&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Computer%20Vision&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8993FB,25:FF6FD8,50:FFA36C,75:38F9D7,100:4FACFE&height=280&section=header&text=Jiphin%20George&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF6FD8&center=true&vCenter=true&width=780&lines=Building+Intelligent+Systems+with+AI+%2F+ML;Full+Stack+Engineer+%7C+Flutter+%7C+Django+%7C+React;Computer+Vision+%2B+Explainable+AI+Enthusiast;MCA+Student+%40+Mar+Athanasius+College+of+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF6FD8&center=true&vCenter=true&width=780&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Flutter+%7C+Django+%7C+React+%7C+TensorFlow;Computer+Vision+%2B+Explainable+AI+Enthusiast;MCA+Student+%40+Mar+Athanasius+College+of+Engineering" alt="Typing SVG" />
 
 <br/>
 
@@ -53,7 +53,7 @@
 ```yaml
 whoami:
   name: "Jiphin George"
-  role: "AI/ML Engineer • Full Stack Developer"
+  role: "Full Stack Developer • AI/ML Enthusiast"
   currently: "MCA Student @ Mar Athanasius College of Engineering"
   focus:
     - "Computer Vision & Deep Learning"
@@ -71,7 +71,7 @@ Most recently, I built an end-to-end **computer vision inspection system** — f
 
 <br/>
 
-**🎯 Open To:** Software Engineer · AI/ML Engineer · Full Stack Developer · Computer Vision Engineer roles
+**🎯 Open To:** Full Stack Developer · Software Engineer · AI/ML roles
 
 <br/>
 
@@ -82,7 +82,7 @@ Most recently, I built an end-to-end **computer vision inspection system** — f
 - 🎓 **MCA Student** @ Mar Athanasius College of Engineering, Kothamangalam (2025–2027)
 - 💼 **AI/ML Intern** @ Nestsoft Technomaster — built an industrial computer vision inspection system
 - 🧠 **Ask me about:** Computer Vision, Transfer Learning, Explainable AI, Flutter, or Django
-- 🚀 **Looking for:** Software Engineer / AI-ML Engineer / Full Stack Developer roles
+- 🚀 **Looking for:** Full Stack Developer / Software Engineer roles
 - 🏆 Led **Team GLITCH** through an 18-hour hackathon, shipping multiple web apps
 - 🧩 **Hobbies:** Problem solving, Rubik's Cube, Travelling
 
@@ -380,7 +380,7 @@ current:
     - "Edge deployment for computer vision models"
   open_to:
     - "Software Engineer roles"
-    - "AI / ML Engineer roles"
+    - "AI / ML enthusiast projects & collaborations"
     - "Full Stack Developer roles"
     - "Collaborations on open-source AI tooling"
 ```
