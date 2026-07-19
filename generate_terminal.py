@@ -13,7 +13,6 @@ any extra secrets.
 """
 
 import gifos
-from gifos.utils import fetch_github_stats
 
 t = gifos.Terminal(width=800, height=420, xpad=12, ypad=12)
 
@@ -35,8 +34,11 @@ t.gen_text(text="TensorFlow | Keras | OpenCV | Scikit-learn", row_num=10)
 t.gen_text(text="", row_num=11)
 
 # --- Live GitHub stats ---
+# NOTE: fetch_github_stats() has a known bug — it divides by the merged
+# PR count internally, which throws ZeroDivisionError for accounts with
+# no merged PRs yet. Skipping it until that's fixed upstream.
 t.gen_text(text="jiphin@github:~$ neofetch --github", row_num=12)
-github_stats = fetch_github_stats(user_name="JiphinGeorge")  # needs GITHUB_TOKEN
-t.gen_text(text=f"GitHub: {github_stats.account_name}", row_num=13, contin=True)
+t.gen_text(text="GitHub: JiphinGeorge", row_num=13)
+t.gen_text(text="Status: Open to Software Engineer / AI-ML roles", row_num=14)
 
 t.gen_gif()
