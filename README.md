@@ -1,59 +1,344 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Jiphin!&fontSize=50&fontAlignY=35&animation=twinkling" width="100%" alt="Banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Jiphin%20George&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Computer%20Vision&descAlignY=55&descSize=18" width="100%"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+with+AI+%2F+ML;Full+Stack+Engineer+%7C+Flutter+%7C+Django+%7C+React;Computer+Vision+%2B+Explainable+AI+Enthusiast;MCA+Student+%40+Mar+Athanasius+College+of+Engineering" alt="Typing SVG" />
 
-[![](https://visitcount.itsvg.in/api?id=JiphinGeorge&icon=eye&color=brightgreen)](https://visitcount.itsvg.in)  
-![Followers](https://img.shields.io/github/followers/JiphinGeorge?label=Followers&style=social) 
+<br/>
+
+<img src="https://img.shields.io/badge/MCA-2025--2027-6D28D9?style=flat-square&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/BCA-CGPA%207.94-7C3AED?style=flat-square&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/Higher%20Secondary-93%25-8B5CF6?style=flat-square&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/Location-Kasaragod%2C%20Kerala%2C%20India-A855F7?style=flat-square&labelColor=1a1a1a&logo=googlemaps&logoColor=white" />
+
+<br/><br/>
+
+<a href="https://github.com/JiphinGeorge"><img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d" /></a>
+<a href="https://linkedin.com/in/jiphingeorge"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" /></a>
+<a href="mailto:jiphingeorge1190@gmail.com"><img src="https://img.shields.io/badge/Email-Message-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" /></a>
+<a href="https://github.com/JiphinGeorge"><img src="https://img.shields.io/badge/GitHub-Follow-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=JiphinGeorge&style=flat-square&color=8b5cf6&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/JiphinGeorge?style=flat-square&color=7c3aed&labelColor=1a1a1a&label=Followers" />
+<img src="https://img.shields.io/github/stars/JiphinGeorge?style=flat-square&color=6d28d9&labelColor=1a1a1a&label=Stars" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
 
-<picture>
-<a href="https://github.com/JiphinGeorge">
-<img src="https://images.weserv.nl/?url=https://github.com/JiphinGeorge.png?v=4&h=310&w=310&fit=cover&mask=circle" align="right" width="300">
-</a>
-</picture>
+## ─── About Me
 
-```js
-"use creativity";
-import { Developer } from "kerala-india";
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-new Developer({
-  name: "Jiphin George",
-  role: "MCA Student & Aspiring Software Developer",
-  institution: "MACE Kothamangalam",
-  email: "jiphingeorge80@gmail.com",
-  interests: ["Flutter", "Full-Stack Development", "AI-based Applications"],
-  learning_by_building: true,
-}).introduce();
+```yaml
+whoami:
+  name: "Jiphin George"
+  role: "AI/ML Engineer • Full Stack Developer"
+  currently: "MCA Student @ Mar Athanasius College of Engineering"
+  focus:
+    - "Computer Vision & Deep Learning"
+    - "Explainable AI (Grad-CAM, Transfer Learning)"
+    - "Scalable Full Stack Systems (Django, Flask, React, Flutter)"
+  philosophy: "Engineering software that is intelligent, explainable, and production-ready"
 ```
-C:\Users\Jiphin> node index.js
 
-Hi, my name is Jiphin George!
-I'm a curious developer who enjoys building practical,
-user-focused applications and turning ideas into working projects.
+I'm an engineering-minded developer who builds at the intersection of **Artificial Intelligence** and **Full Stack Engineering**. My work spans training and deploying deep learning models for real-world industrial use cases, architecting backend systems that serve them reliably, and shipping clean, usable interfaces on web and mobile.
 
-<div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <h3 align="center">🚀 My Goals & Interests 🚀</h3>
+Most recently, I built an end-to-end **computer vision inspection system** — from model training with transfer learning to a live Flask dashboard with explainability built in — the kind of full pipeline ownership I look for in every project I take on.
 
-I’m not an expert yet — but I strongly believe in learning by building.
-Most of my growth comes from experimenting, participating in hackathons, and building real projects.
+<br/>
 
-My goal is to grow into a confident software developer by continuously learning and improving.
+**🎯 Open To:** Software Engineer · AI/ML Engineer · Full Stack Developer · Computer Vision Engineer roles
 
-Always open to collaboration, feedback, and new opportunities.
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <h3 align="center">🧑‍💻 Frequently Used Tech 🧑‍💻</h3> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java,c,html,js,flutter,mysql,sqlite,figma,github,git,vercel,vscode&perline=6" /> </a> </p> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <h3 align="center"><h3 align="center">📊 GitHub Stats 📊</h3>
+## ─── Tech Stack
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JiphinGeorge&show_icons=true&theme=github_dark&hide_border=true"/>
-<img src="https://streak-stats.demolab.com?user=JiphinGeorge&theme=github-dark&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiphinGeorge&layout=compact&theme=github_dark&hide_border=true"/>
-</p>🤝 Connect with Me 🤝</h3> <p align="center"> <a href="https://www.linkedin.com/in/jiphingeorge"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://www.instagram.com/jiphin_george/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a> <a href="mailto:jiphingeorge80@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> </p> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JiphinGeorge/JiphinGeorge/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JiphinGeorge/JiphinGeorge/output/github-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/JiphinGeorge/JiphinGeorge/output/github-snake.svg" /> </picture> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <h3 align="center">✍️ Random Dev Quote</h3> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"> <br>
+<div align="center">
 
-Made with ❤️ by Jiphin George
-</div> 
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,python,c,js&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,flutter,html,css,figma&theme=dark" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=django,flask,mysql,mongodb,sqlite,oracle&theme=dark" />
+
+**Tooling & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,tensorflow,opencv,vercel&theme=dark" />
+
+</div>
+
+<br/>
+
+## ─── AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| **Deep Learning & Transfer Learning** | ●●●●○ | TensorFlow, Keras, EfficientNetV2B0 for image classification pipelines |
+| **Computer Vision** | ●●●●○ | OpenCV-based preprocessing, augmentation, real-time inference |
+| **Explainable AI** | ●●●●○ | Grad-CAM visualizations for model interpretability in production dashboards |
+| **NLP & Chatbots** | ●●●○○ | TensorFlow/Keras-based conversational systems with sentiment analysis |
+| **Data Science & Analysis** | ●●●○○ | NumPy, Pandas, Scikit-learn for data workflows and modeling |
+| **MLOps Fundamentals** | ●●●○○ | Flask model serving, SQLite logging, real-time dashboards |
+
+</div>
+
+<br/>
+
+## ─── Featured Projects
+
+<details open>
+<summary><b>🍅 QualiVision AI — Industrial Quality Inspection System</b></summary>
+<br/>
+
+AI-powered computer vision system for real-time tomato freshness classification, built to support automated industrial quality inspection workflows using transfer learning and explainable AI.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | Python, TensorFlow, Keras, EfficientNetV2B0, OpenCV, Flask, SQLite |
+| **Scale** | Real-time image classification pipeline with live industrial dashboard |
+| **Performance** | Transfer learning with systematic evaluation, preprocessing & augmentation |
+| **Explainability** | Grad-CAM visualizations integrated for model interpretability |
+| **Impact** | Deployed during AI/ML internship at Nestsoft Technomaster Pvt. Ltd. |
+| **Repository** | [github.com/JiphinGeorge](https://github.com/JiphinGeorge) |
+
+Built the full pipeline — image classification model training, Flask backend with SQLite-based prediction logging, and a real-time dashboard — while improving interpretability through Grad-CAM so inspection decisions remain explainable to industrial stakeholders.
+
+</details>
+
+<details>
+<summary><b>🗺️ Xplora — Kerala Tourism Chatbot</b></summary>
+<br/>
+
+Deep learning-based tourism chatbot delivering personalized recommendations, sentiment analysis, and interactive location discovery for travelers exploring Kerala.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | Python, Django, TensorFlow, Keras |
+| **Scale** | Conversational recommendation engine with location-based discovery |
+| **Security** | Django's built-in request handling and session management |
+| **Impact** | Combines NLP-driven sentiment analysis with personalized travel suggestions |
+| **Repository** | [github.com/JiphinGeorge](https://github.com/JiphinGeorge) |
+
+Designed to move beyond static FAQ-style bots by using sentiment analysis to tailor recommendations and guide users toward relevant destinations conversationally.
+
+</details>
+
+<details>
+<summary><b>📱 Xynapse — Flutter Mobile App</b></summary>
+<br/>
+
+Cross-platform Flutter application with a responsive UI and robust state management for a smooth, consistent mobile experience.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | Flutter, Provider, SQLite |
+| **Scale** | Full mobile application with local persistence |
+| **Performance** | Provider-based state management for efficient UI updates |
+| **Repository** | [github.com/JiphinGeorge](https://github.com/JiphinGeorge) |
+
+Focused on clean state architecture using the Provider pattern paired with SQLite for reliable local data storage.
+
+</details>
+
+<details>
+<summary><b>🎧 Readify AI — PDF to Audiobook Converter</b></summary>
+<br/>
+
+Flask-based web application that converts PDF documents into audiobooks using text extraction combined with AI-powered text-to-speech.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | Python, Flask, AI/TTS |
+| **Scale** | End-to-end document-to-audio conversion pipeline |
+| **Impact** | Improves content accessibility by converting reading material into audio |
+| **Repository** | [github.com/JiphinGeorge](https://github.com/JiphinGeorge) |
+
+Built to make written content more accessible, handling text extraction and speech synthesis in a single streamlined workflow.
+
+</details>
+
+<br/>
+
+## ─── Experience
+
+#### Artificial Intelligence & Machine Learning Intern
+**Nestsoft Technomaster Pvt. Ltd.** | May 2026 – Jul 2026
+
+Built and deployed an industrial-grade computer vision system for automated quality inspection, covering the full lifecycle from model training to production dashboard.
+
+- Developed QualiVision AI, an automated tomato freshness classification system using Computer Vision and Deep Learning
+- Built image classification models with TensorFlow, Keras, and EfficientNetV2B0 via Transfer Learning
+- Integrated Grad-CAM visualizations to strengthen Explainable AI and model interpretability
+- Developed a Flask backend with SQLite logging and a real-time industrial dashboard
+- Improved model performance through image preprocessing, data augmentation, and systematic evaluation
+
+`TensorFlow` `Keras` `OpenCV` `Flask` `SQLite` `Transfer Learning` `Explainable AI`
+
+<br/>
+
+#### Data Science Virtual Intern
+**Alpha Innovation Pvt Ltd, Bangalore** | Sep 2025 – Nov 2025
+
+Completed a virtual internship centered on core data science concepts and practical implementation.
+
+- Gained exposure to end-to-end data analysis workflows
+- Applied machine learning fundamentals to real-world problem-solving scenarios
+
+`Data Analysis` `Machine Learning Fundamentals` `Python`
+
+<br/>
+
+## ─── Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| 🏆 **Hackathon Leadership** | Led Team GLITCH through an 18-hour Hackathon, developing multiple web applications |
+| 💡 **Core Member, IEDC** | St. Joseph's College, Devagiri — Innovation & Entrepreneurship Development Cell |
+| 🎤 **Event Coordinator** | ENVI Department Fest |
+| 🔐 **Security Summit** | Participant, Red Team Security Summit |
+| 🚀 **IEDC Summit** | Participant |
+| ⚡ **Vibe Coding Events** | Participant |
+
+</div>
+
+<br/>
+
+## ─── Certifications
+
+<div align="center">
+
+**IIT Madras**
+
+<img src="https://img.shields.io/badge/NPTEL%20Elite-Human%20Computer%20Interaction%20(90%25)-6D28D9?style=for-the-badge&labelColor=0d0d0d" />
+
+**Maitexa Technologies**
+
+<img src="https://img.shields.io/badge/Flutter%20%26%20Dart-Certified%20Developer-7C3AED?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0d0d0d" />
+
+**Riss Technologies**
+
+<img src="https://img.shields.io/badge/Python%20Django-Development-8B5CF6?style=for-the-badge&logo=django&logoColor=white&labelColor=0d0d0d" />
+
+**TechByHeart**
+
+<img src="https://img.shields.io/badge/UI%2FUX%20Design-Figma-A855F7?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d0d0d" />
+
+</div>
+
+<br/>
+
+## ─── Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/JiphinGeorge"><img src="https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d0d0d" /></a>
+<a href="https://www.geeksforgeeks.org/user/JiphinGeorge"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0d0d0d" /></a>
+<a href="https://www.hackerrank.com/JiphinGeorge"><img src="https://img.shields.io/badge/HackerRank-Profile-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0d0d0d" /></a>
+<a href="https://www.codechef.com/users/JiphinGeorge"><img src="https://img.shields.io/badge/CodeChef-Profile-A855F7?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d0d0d" /></a>
+
+</div>
+
+<br/>
+
+## ─── GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JiphinGeorge&show_icons=true&theme=dark&hide_border=true&bg_color=0d0117&title_color=A855F7&icon_color=8B5CF6&text_color=c9d1d9&ring_color=7C3AED" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JiphinGeorge&theme=dark&hide_border=true&background=0D0117&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiphinGeorge&layout=compact&theme=dark&hide_border=true&bg_color=0d0117&title_color=A855F7&text_color=c9d1d9" />
+
+</div>
+
+<br/>
+
+## ─── GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=JiphinGeorge&theme=discord&no-frame=true&no-bg=true&margin-w=15&column=7" />
+
+</div>
+
+<br/>
+
+## ─── Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JiphinGeorge&theme=react-dark&hide_border=true&bg_color=0D0117&color=A855F7&line=8B5CF6&point=ffffff" width="100%"/>
+
+</div>
+
+<br/>
+
+## ─── Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/JiphinGeorge/JiphinGeorge/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+## ─── Current Focus
+
+```yaml
+current:
+  learning:
+    - "Advanced MLOps & model deployment pipelines"
+    - "System design for scalable AI-driven applications"
+    - "Cloud-native architecture patterns"
+  building:
+    - "End-to-end computer vision products with explainability baked in"
+    - "Cross-platform Flutter applications with clean state management"
+  exploring:
+    - "LLM-powered application development"
+    - "Edge deployment for computer vision models"
+  open_to:
+    - "Software Engineer roles"
+    - "AI / ML Engineer roles"
+    - "Full Stack Developer roles"
+    - "Collaborations on open-source AI tooling"
+```
+
+<br/>
+
+## ─── Connect With Me
+
+<div align="center">
+
+<a href="mailto:jiphingeorge1190@gmail.com"><img src="https://img.shields.io/badge/Gmail-jiphingeorge1190%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" /></a>
+<a href="https://linkedin.com/in/jiphingeorge"><img src="https://img.shields.io/badge/LinkedIn-jiphingeorge-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" /></a>
+<a href="https://github.com/JiphinGeorge"><img src="https://img.shields.io/badge/GitHub-JiphinGeorge-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" /></a>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+*"Code with intelligence. Design with intention. Ship with impact."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer" width="100%"/>
+
+</div>
