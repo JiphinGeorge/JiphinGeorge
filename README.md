@@ -257,12 +257,14 @@ Completed a virtual internship centered on core data science concepts and practi
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JiphinGeorge&show_icons=true&theme=dark&hide_border=true&bg_color=0d0117&title_color=A855F7&icon_color=8B5CF6&text_color=c9d1d9&ring_color=7C3AED" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JiphinGeorge&show_icons=true&theme=dark&hide_border=true&bg_color=0d0117&title_color=A855F7&icon_color=8B5CF6&text_color=c9d1d9&ring_color=7C3AED&cache_seconds=86400" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JiphinGeorge&theme=dark&hide_border=true&background=0D0117&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiphinGeorge&layout=compact&theme=dark&hide_border=true&bg_color=0d0117&title_color=A855F7&text_color=c9d1d9" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiphinGeorge&layout=compact&theme=dark&hide_border=true&bg_color=0d0117&title_color=A855F7&text_color=c9d1d9&cache_seconds=86400" />
+
+> If a card above shows broken, it's the free `github-readme-stats.vercel.app` instance being rate-limited — refresh in a few minutes, or fork & deploy [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) to your own Vercel account for a permanently stable link.
 
 </div>
 
@@ -272,9 +274,9 @@ Completed a virtual internship centered on core data science concepts and practi
 
 <div align="center">
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JiphinGeorge&theme=tokyonight" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=JiphinGeorge&theme=algolia&column=7&margin-w=15&margin-h=15&no-bg=false" />
+
+> If this section renders something other than trophy badges, it's a caching/extension issue on the viewing side, not the markdown — the URL above points directly to the trophy image API. Try a hard refresh or view the raw README on GitHub.
 
 </div>
 
@@ -294,7 +296,7 @@ Completed a virtual internship centered on core data science concepts and practi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JiphinGeorge/JiphinGeorge/output/github-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/JiphinGeorge/JiphinGeorge/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
