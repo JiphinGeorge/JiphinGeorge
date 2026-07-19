@@ -138,7 +138,7 @@ AI-powered computer vision system for real-time tomato freshness classification,
 | **Performance** | Transfer learning with systematic evaluation, preprocessing & augmentation |
 | **Explainability** | Grad-CAM visualizations integrated for model interpretability |
 | **Impact** | Deployed during AI/ML internship at Nestsoft Technomaster Pvt. Ltd. |
-| **Repository** | [github.com/JiphinGeorge](https://github.com/JiphinGeorge) |
+| **Repository** | [github.com/JiphinGeorge/SmartCam-AI---Industrial-Quality-Control-System](https://github.com/JiphinGeorge/SmartCam-AI---Industrial-Quality-Control-System) |
 
 Built the full pipeline — image classification model training, Flask backend with SQLite-based prediction logging, and a real-time dashboard — while improving interpretability through Grad-CAM so inspection decisions remain explainable to industrial stakeholders.
 
@@ -156,7 +156,7 @@ Deep learning-based tourism chatbot delivering personalized recommendations, sen
 | **Scale** | Conversational recommendation engine with location-based discovery |
 | **Security** | Django's built-in request handling and session management |
 | **Impact** | Combines NLP-driven sentiment analysis with personalized travel suggestions |
-| **Repository** | [github.com/JiphinGeorge](https://github.com/JiphinGeorge) |
+| **Repository** | [github.com/JiphinGeorge/Xplora--Final-yr-BCA-Project](https://github.com/JiphinGeorge/Xplora--Final-yr-BCA-Project) |
 
 Designed to move beyond static FAQ-style bots by using sentiment analysis to tailor recommendations and guide users toward relevant destinations conversationally.
 
@@ -173,7 +173,7 @@ Cross-platform Flutter application with a responsive UI and robust state managem
 | **Stack** | Flutter, Provider, SQLite |
 | **Scale** | Full mobile application with local persistence |
 | **Performance** | Provider-based state management for efficient UI updates |
-| **Repository** | [github.com/JiphinGeorge](https://github.com/JiphinGeorge) |
+| **Repository** | [github.com/JiphinGeorge/Xynapse-A-Collaboration-Platform_Hackathon](https://github.com/JiphinGeorge/Xynapse-A-Collaboration-Platform_Hackathon) |
 
 Focused on clean state architecture using the Provider pattern paired with SQLite for reliable local data storage.
 
@@ -190,7 +190,7 @@ Flask-based web application that converts PDF documents into audiobooks using te
 | **Stack** | Python, Flask, AI/TTS |
 | **Scale** | End-to-end document-to-audio conversion pipeline |
 | **Impact** | Improves content accessibility by converting reading material into audio |
-| **Repository** | [github.com/JiphinGeorge](https://github.com/JiphinGeorge) |
+| **Repository** | [github.com/JiphinGeorge/Readify-AI](https://github.com/JiphinGeorge/Readify-AI) |
 
 Built to make written content more accessible, handling text extraction and speech synthesis in a single streamlined workflow.
 
