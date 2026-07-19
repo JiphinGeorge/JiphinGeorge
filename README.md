@@ -79,7 +79,7 @@ Most recently, I built an end-to-end **computer vision inspection system** — f
 
 </td>
 <td width="35%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" width="100%">
 </td>
 </tr>
 </table>
