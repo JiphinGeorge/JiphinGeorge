@@ -1,28 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Jiphin%20George&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Computer%20Vision&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8993FB,25:FF6FD8,50:FFA36C,75:38F9D7,100:4FACFE&height=280&section=header&text=Jiphin%20George&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Computer%20Vision&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=780&lines=Building+Intelligent+Systems+with+AI+%2F+ML;Full+Stack+Engineer+%7C+Flutter+%7C+Django+%7C+React;Computer+Vision+%2B+Explainable+AI+Enthusiast;MCA+Student+%40+Mar+Athanasius+College+of+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF6FD8&center=true&vCenter=true&width=780&lines=Building+Intelligent+Systems+with+AI+%2F+ML;Full+Stack+Engineer+%7C+Flutter+%7C+Django+%7C+React;Computer+Vision+%2B+Explainable+AI+Enthusiast;MCA+Student+%40+Mar+Athanasius+College+of+Engineering" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/MCA-2025--2027-6D28D9?style=flat-square&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/BCA-CGPA%207.94-7C3AED?style=flat-square&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/Higher%20Secondary-93%25-8B5CF6?style=flat-square&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/Location-Kasaragod%2C%20Kerala%2C%20India-A855F7?style=flat-square&labelColor=1a1a1a&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/MCA-2025--2027-3B82F6?style=flat-square&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/BCA-CGPA%207.94-EC4899?style=flat-square&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/Higher%20Secondary-93%25-F59E0B?style=flat-square&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/Location-Kasaragod%2C%20Kerala%2C%20India-10B981?style=flat-square&labelColor=1a1a1a&logo=googlemaps&logoColor=white" />
 
 <br/><br/>
 
-<a href="https://github.com/JiphinGeorge"><img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d" /></a>
-<a href="https://linkedin.com/in/jiphingeorge"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" /></a>
-<a href="mailto:jiphingeorge1190@gmail.com"><img src="https://img.shields.io/badge/Email-Message-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" /></a>
-<a href="https://github.com/JiphinGeorge"><img src="https://img.shields.io/badge/GitHub-Follow-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" /></a>
+<a href="https://github.com/JiphinGeorge"><img src="https://img.shields.io/badge/Portfolio-Visit-3B82F6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d" /></a>
+<a href="https://linkedin.com/in/jiphingeorge"><img src="https://img.shields.io/badge/LinkedIn-Connect-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" /></a>
+<a href="mailto:jiphingeorge1190@gmail.com"><img src="https://img.shields.io/badge/Email-Message-EC4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" /></a>
+<a href="https://github.com/JiphinGeorge"><img src="https://img.shields.io/badge/GitHub-Follow-F59E0B?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=JiphinGeorge&style=flat-square&color=8b5cf6&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/JiphinGeorge?style=flat-square&color=7c3aed&labelColor=1a1a1a&label=Followers" />
-<img src="https://img.shields.io/github/stars/JiphinGeorge?style=flat-square&color=6d28d9&labelColor=1a1a1a&label=Stars" />
+<img src="https://komarev.com/ghpvc/?username=JiphinGeorge&style=flat-square&color=38F9D7&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/JiphinGeorge?style=flat-square&color=FF6FD8&labelColor=1a1a1a&label=Followers" />
+<img src="https://img.shields.io/github/stars/JiphinGeorge?style=flat-square&color=F59E0B&labelColor=1a1a1a&label=Stars" />
 
 </div>
 
@@ -41,6 +41,9 @@
 <br/>
 
 ## About Me
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8993FB,25:FF6FD8,50:FFA36C,75:38F9D7,100:4FACFE&height=3" width="100%"/>
+
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
@@ -88,6 +91,9 @@ Most recently, I built an end-to-end **computer vision inspection system** — f
 
 ## Tech Stack
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8993FB,25:FF6FD8,50:FFA36C,75:38F9D7,100:4FACFE&height=3" width="100%"/>
+
+
 <div align="center">
 
 **Languages**
@@ -112,6 +118,9 @@ Most recently, I built an end-to-end **computer vision inspection system** — f
 
 ## AI / ML Expertise
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8993FB,25:FF6FD8,50:FFA36C,75:38F9D7,100:4FACFE&height=3" width="100%"/>
+
+
 <div align="center">
 
 | Domain | Proficiency | Details |
@@ -128,6 +137,9 @@ Most recently, I built an end-to-end **computer vision inspection system** — f
 <br/>
 
 ## Featured Projects
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8993FB,25:FF6FD8,50:FFA36C,75:38F9D7,100:4FACFE&height=3" width="100%"/>
+
 
 <details open>
 <summary><b>🍅 QualiVision AI — Industrial Quality Inspection System</b></summary>
@@ -204,6 +216,9 @@ Built to make written content more accessible, handling text extraction and spee
 
 ## Experience
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8993FB,25:FF6FD8,50:FFA36C,75:38F9D7,100:4FACFE&height=3" width="100%"/>
+
+
 #### Artificial Intelligence & Machine Learning Intern
 **Nestsoft Technomaster Pvt. Ltd.** | May 2026 – Jul 2026
 
@@ -233,6 +248,9 @@ Completed a virtual internship centered on core data science concepts and practi
 
 ## Achievements
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8993FB,25:FF6FD8,50:FFA36C,75:38F9D7,100:4FACFE&height=3" width="100%"/>
+
+
 <div align="center">
 
 | Recognition | Details |
@@ -249,6 +267,9 @@ Completed a virtual internship centered on core data science concepts and practi
 <br/>
 
 ## Certifications
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8993FB,25:FF6FD8,50:FFA36C,75:38F9D7,100:4FACFE&height=3" width="100%"/>
+
 
 <div align="center">
 
@@ -274,12 +295,19 @@ Completed a virtual internship centered on core data science concepts and practi
 
 ## Coding Profiles
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8993FB,25:FF6FD8,50:FFA36C,75:38F9D7,100:4FACFE&height=3" width="100%"/>
+
+
 <div align="center">
 
-<a href="https://leetcode.com/JiphinGeorge"><img src="https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d0d0d" /></a>
-<a href="https://www.geeksforgeeks.org/user/JiphinGeorge"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0d0d0d" /></a>
-<a href="https://www.hackerrank.com/JiphinGeorge"><img src="https://img.shields.io/badge/HackerRank-Profile-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0d0d0d" /></a>
-<a href="https://www.codechef.com/users/JiphinGeorge"><img src="https://img.shields.io/badge/CodeChef-Profile-A855F7?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d0d0d" /></a>
+<img src="https://leetcard.jacoblin.cool/JiphinGeorge?theme=dark&font=Fira%20Code&ext=heatmap" />
+
+<br/>
+
+<a href="https://leetcode.com/JiphinGeorge"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d0d0d" /></a>
+<a href="https://www.geeksforgeeks.org/user/JiphinGeorge"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0d0d0d" /></a>
+<a href="https://www.hackerrank.com/JiphinGeorge"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0d0d0d" /></a>
+<a href="https://www.codechef.com/users/JiphinGeorge"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d0d0d" /></a>
 
 </div>
 
@@ -287,9 +315,12 @@ Completed a virtual internship centered on core data science concepts and practi
 
 ## GitHub Analytics
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8993FB,25:FF6FD8,50:FFA36C,75:38F9D7,100:4FACFE&height=3" width="100%"/>
+
+
 <div align="center">
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JiphinGeorge&theme=dark&hide_border=true&background=0D0117&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JiphinGeorge&theme=dark&hide_border=true&background=0D0117&ring=FF6FD8&fire=F59E0B&currStreakLabel=38F9D7" />
 
 </div>
 
@@ -297,15 +328,21 @@ Completed a virtual internship centered on core data science concepts and practi
 
 ## Contribution Activity
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8993FB,25:FF6FD8,50:FFA36C,75:38F9D7,100:4FACFE&height=3" width="100%"/>
+
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JiphinGeorge&theme=react-dark&hide_border=true&bg_color=0D0117&color=A855F7&line=8B5CF6&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JiphinGeorge&theme=react-dark&hide_border=true&bg_color=0D0117&color=FF6FD8&line=38F9D7&point=FFA36C" width="100%"/>
 
 </div>
 
 <br/>
 
 ## Contribution Snake
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8993FB,25:FF6FD8,50:FFA36C,75:38F9D7,100:4FACFE&height=3" width="100%"/>
+
 
 <div align="center">
 
@@ -316,6 +353,9 @@ Completed a virtual internship centered on core data science concepts and practi
 <br/>
 
 ## Current Focus
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8993FB,25:FF6FD8,50:FFA36C,75:38F9D7,100:4FACFE&height=3" width="100%"/>
+
 
 ```yaml
 current:
@@ -338,7 +378,34 @@ current:
 
 <br/>
 
+## Coding Activity
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8993FB,25:FF6FD8,50:FFA36C,75:38F9D7,100:4FACFE&height=3" width="100%"/>
+
+> **Setup needed:** this section shows a colorful weekly language breakdown once WakaTime is connected. Steps:
+> 1. Create a free account at [wakatime.com](https://wakatime.com) and install the plugin for your editor (VS Code, etc.)
+> 2. Fork [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats), which generates the chart via GitHub Actions
+> 3. Add your `WAKATIME_API_KEY` as a repo secret per that project's setup guide
+> 4. Once it runs once, replace this block with the `<!--START_SECTION:waka-->...<!--END_SECTION:waka-->` markers it gives you — the chart renders in full color per language automatically
+
+<br/>
+
+## Now Playing
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8993FB,25:FF6FD8,50:FFA36C,75:38F9D7,100:4FACFE&height=3" width="100%"/>
+
+> **Setup needed:** a live "now playing" Spotify card with album art and animated equalizer bars. Steps:
+> 1. Go to [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) and follow the "Deploy to Vercel" instructions
+> 2. Authorize with your Spotify account when prompted — it gives you a unique badge URL
+> 3. Add this to the README once you have it:
+> `<img src="https://your-deployment.vercel.app/api/spotify" width="500" />`
+
+<br/>
+
 ## Connect With Me
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8993FB,25:FF6FD8,50:FFA36C,75:38F9D7,100:4FACFE&height=3" width="100%"/>
+
 
 <div align="center">
 
