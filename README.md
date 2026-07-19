@@ -98,19 +98,19 @@ Most recently, I built an end-to-end **computer vision inspection system** — f
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,c,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,c,dart,js&theme=dark" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,flutter,html,css,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,flutter,html,css,tailwind,figma&theme=dark" />
 
 **Backend & Databases**
 
 <img src="https://skillicons.dev/icons?i=django,flask,mysql,mongodb,sqlite,oracle&theme=dark" />
 
-**Tooling & Platforms**
+**Tooling, DevOps & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,tensorflow,opencv,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,nginx,tensorflow,opencv,vercel&theme=dark" />
 
 </div>
 
@@ -375,30 +375,6 @@ current:
     - "Full Stack Developer roles"
     - "Collaborations on open-source AI tooling"
 ```
-
-<br/>
-
-## Coding Activity
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8993FB,25:FF6FD8,50:FFA36C,75:38F9D7,100:4FACFE&height=3" width="100%"/>
-
-> **Setup needed:** this section shows a colorful weekly language breakdown once WakaTime is connected. Steps:
-> 1. Create a free account at [wakatime.com](https://wakatime.com) and install the plugin for your editor (VS Code, etc.)
-> 2. Fork [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats), which generates the chart via GitHub Actions
-> 3. Add your `WAKATIME_API_KEY` as a repo secret per that project's setup guide
-> 4. Once it runs once, replace this block with the `<!--START_SECTION:waka-->...<!--END_SECTION:waka-->` markers it gives you — the chart renders in full color per language automatically
-
-<br/>
-
-## Now Playing
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8993FB,25:FF6FD8,50:FFA36C,75:38F9D7,100:4FACFE&height=3" width="100%"/>
-
-> **Setup needed:** a live "now playing" Spotify card with album art and animated equalizer bars. Steps:
-> 1. Go to [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) and follow the "Deploy to Vercel" instructions
-> 2. Authorize with your Spotify account when prompted — it gives you a unique badge URL
-> 3. Add this to the README once you have it:
-> `<img src="https://your-deployment.vercel.app/api/spotify" width="500" />`
 
 <br/>
 
