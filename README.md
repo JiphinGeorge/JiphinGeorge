@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Jiphin%20George&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Computer%20Vision&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+with+AI+%2F+ML;Full+Stack+Engineer+%7C+Flutter+%7C+Django+%7C+React;Computer+Vision+%2B+Explainable+AI+Enthusiast;MCA+Student+%40+Mar+Athanasius+College+of+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=780&lines=Building+Intelligent+Systems+with+AI+%2F+ML;Full+Stack+Engineer+%7C+Flutter+%7C+Django+%7C+React;Computer+Vision+%2B+Explainable+AI+Enthusiast;MCA+Student+%40+Mar+Athanasius+College+of+Engineering" alt="Typing SVG" />
 
 <br/>
 
@@ -264,7 +264,10 @@ Completed a virtual internship centered on core data science concepts and practi
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiphinGeorge&layout=compact&theme=dark&hide_border=true&bg_color=0d0117&title_color=A855F7&text_color=c9d1d9&cache_seconds=86400" />
 
-> If a card above shows broken, it's the free `github-readme-stats.vercel.app` instance being rate-limited — refresh in a few minutes, or fork & deploy [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) to your own Vercel account for a permanently stable link.
+> **Known issue:** `github-readme-stats.vercel.app` is one of the most-used free deployments on GitHub and is rate-limited for most users most of the time — this isn't specific to your README. The only permanent fix is self-hosting:
+> 1. Go to [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), click **Deploy on Vercel** in its README
+> 2. It creates your own copy at a URL like `github-readme-stats-yourname.vercel.app`
+> 3. Swap that domain into the image URLs above (takes 5 minutes, no rate limits since it's just for you)
 
 </div>
 
@@ -276,7 +279,7 @@ Completed a virtual internship centered on core data science concepts and practi
 
 <img src="https://github-profile-trophy.vercel.app/?username=JiphinGeorge&theme=algolia&column=7&margin-w=15&margin-h=15&no-bg=false" />
 
-> If this section renders something other than trophy badges, it's a caching/extension issue on the viewing side, not the markdown — the URL above points directly to the trophy image API. Try a hard refresh or view the raw README on GitHub.
+> Same rate-limit issue as the Analytics cards above — `github-profile-trophy.vercel.app` is a shared free instance. [Deploy your own copy](https://github.com/ryo-ma/github-profile-trophy#deploy-your-own-instance) for a permanently stable link.
 
 </div>
 
@@ -296,7 +299,7 @@ Completed a virtual internship centered on core data science concepts and practi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JiphinGeorge/JiphinGeorge/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/JiphinGeorge/JiphinGeorge/output/github-snake-dark.svg" width="100%"/>
 
 </div>
 
