@@ -261,12 +261,14 @@ Completed a virtual internship centered on core data science concepts and practi
 
 | Recognition | Details |
 |---|---|
+| 🥈 **2nd Place — Vibe Coding** | TECXELL '26, Muthoot Institute of Technology and Science, Kochi (Mar 2026) |
+| 🥈 **2nd Place — Excute** | Expectations '25, Christ (Deemed to be University), intercollegiate fest (Nov 2025) |
 | 🏆 **Hackathon Leadership** | Led Team GLITCH through an 18-hour Hackathon, developing multiple web applications |
 | 💡 **Core Member, IEDC** | St. Joseph's College, Devagiri — Innovation & Entrepreneurship Development Cell |
+| 🤖 **PYBOT Workshop** | Two-day workshop, IEDC St. Joseph's College Devagiri (Mar 2023) |
 | 🎤 **Event Coordinator** | ENVI Department Fest |
 | 🔐 **Security Summit** | Participant, Red Team Security Summit |
 | 🚀 **IEDC Summit** | Participant |
-| ⚡ **Vibe Coding Events** | Participant |
 
 </div>
 
