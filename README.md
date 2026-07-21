@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<a href="https://portfolio-zeta-ochre-78.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-3B82F6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d" /></a>
+<a href="https://jiphingeorge.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-3B82F6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d" /></a>
 <a href="https://linkedin.com/in/jiphingeorge"><img src="https://img.shields.io/badge/LinkedIn-Connect-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" /></a>
 <a href="mailto:jiphingeorge1190@gmail.com"><img src="https://img.shields.io/badge/Email-Message-EC4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" /></a>
 <a href="https://github.com/JiphinGeorge"><img src="https://img.shields.io/badge/GitHub-Follow-F59E0B?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" /></a>
