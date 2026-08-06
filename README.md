@@ -313,7 +313,6 @@ Completed a virtual internship centered on core data science concepts and practi
 <br/>
 
 <a href="https://leetcode.com/JiphinGeorge"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d0d0d" /></a>
-<a href="https://www.hackerrank.com/JiphinGeorge"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0d0d0d" /></a>
 
 </div>
 
